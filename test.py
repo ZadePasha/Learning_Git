@@ -6,3 +6,5 @@ print(x)
 # Comment
 
 num_time = input("How many times do you want to print the string?")
+
+# Test
